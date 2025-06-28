@@ -1,6 +1,32 @@
-# Human Pose Estimation using Machine Learning
+🤖 Human Pose Estimation using Machine Learning (MediaPipe + Streamlit)
 
-This project focuses on Human Pose Estimation using machine learning, leveraging Mediapipe’s BlazePose model for detecting key body landmarks. The system processes images, videos, or real-time webcam input to identify human poses, enhancing applications in fitness tracking, motion analysis, and interactive AI systems. Implemented using OpenCV, Mediapipe, and Streamlit, the project provides an efficient and user-friendly approach to real-time pose detection and analysis.
-![image](https://github.com/user-attachments/assets/efc2f6f1-c793-47d1-9855-5f1c3eb3afe1)
+This project is a **real-time human pose estimation** tool built using **MediaPipe**, **OpenCV**, and **Streamlit**. It allows users to detect and visualize human body landmarks using either an **image**, **video**, or **live webcam feed**.
 
-The pose detection model processes the input, detects human body landmarks, and draws them on the image or video. If using a webcam, the system continuously processes frames in real-time.
+<br>
+
+![Pose Estimation](https://user-images.githubusercontent.com/your-image-url/pose_demo.gif)
+
+---
+
+## 📌 Features
+
+- ✅ Upload **images** for pose landmark detection.
+- ✅ Use **webcam** to detect human pose in real-time.
+- ✅ Upload **video files** to analyze poses frame-by-frame.
+- ✅ Interactive Streamlit UI with adjustable confidence thresholds.
+- ✅ Real-time landmark rendering using MediaPipe.
+
+---
+
+## 🔧 Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| [Python](https://www.python.org/) | Programming Language |
+| [MediaPipe](https://google.github.io/mediapipe/) | Pose Detection Framework |
+| [OpenCV](https://opencv.org/) | Image/Video Processing |
+| [Streamlit](https://streamlit.io/) | Web Interface for Visualization |
+| [NumPy](https://numpy.org/) | Efficient Array Handling |
+
+---
+

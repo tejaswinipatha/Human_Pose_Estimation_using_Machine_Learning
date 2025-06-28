@@ -1,10 +1,28 @@
-🤖 Human Pose Estimation using Machine Learning (MediaPipe + Streamlit)
+# 🤖 Human Pose Estimation using Machine Learning
 
-This project is a **real-time human pose estimation** tool built using **MediaPipe**, **OpenCV**, and **Streamlit**. It allows users to detect and visualize human body landmarks using either an **image**, **video**, or **live webcam feed**.
+This project is a real-time Human Pose Estimation system built using MediaPipe, OpenCV, and Streamlit. It leverages powerful machine learning models to detect and visualize 33 human body landmarks with high accuracy.
+
+Whether you're working with a single image, a video clip, or using a live webcam feed, this tool can:
+
+🧍‍♂️ Recognize human poses and skeletal joints (like elbows, knees, shoulders, hips, etc.)
+
+🧠 Understand posture and motion through visual feedback
+
+🧩 Help in applications such as:
+
+Fitness tracking & pose correction
+
+Yoga posture analysis
+
+Rehabilitation monitoring
+
+Interactive AI games or experiences
+
+Animation & motion capture
 
 <br>
 
-![Pose Estimation](https://user-images.githubusercontent.com/your-image-url/pose_demo.gif)
+![Image](https://github.com/user-attachments/assets/d890d63a-0d57-4b2a-a70e-bd4f67e3a71c)
 
 ---
 
@@ -17,6 +35,10 @@ This project is a **real-time human pose estimation** tool built using **MediaPi
 - ✅ Real-time landmark rendering using MediaPipe.
 
 ---
+![Image](https://github.com/user-attachments/assets/807933b4-8980-4a19-8f59-e30169c71992)
+
+![Image](https://github.com/user-attachments/assets/3fe7bdaa-d731-4a09-9a7c-bb1c05883bf6)
+
 
 ## 🔧 Tech Stack
 

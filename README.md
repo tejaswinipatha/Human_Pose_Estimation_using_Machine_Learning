@@ -35,9 +35,7 @@ Animation & motion capture
 - ✅ Real-time landmark rendering using MediaPipe.
 
 ---
-![Image](https://github.com/user-attachments/assets/807933b4-8980-4a19-8f59-e30169c71992)
-
-![Image](https://github.com/user-attachments/assets/3fe7bdaa-d731-4a09-9a7c-bb1c05883bf6)
+![Image](https://github.com/user-attachments/assets/807933b4-8980-4a19-8f59-e30169c71992)![Image](https://github.com/user-attachments/assets/3fe7bdaa-d731-4a09-9a7c-bb1c05883bf6)
 
 
 ## 🔧 Tech Stack

@@ -11,20 +11,16 @@ Whether you're working with a single image, a video clip, or using a live webcam
 🧩 Help in applications such as:
 
 Fitness tracking & pose correction
-
 Yoga posture analysis
-
 Rehabilitation monitoring
-
 Interactive AI games or experiences
-
 Animation & motion capture
 
 <br>
 
 ![Image](https://github.com/user-attachments/assets/d890d63a-0d57-4b2a-a70e-bd4f67e3a71c)
 
----
+
 
 ## 📌 Features
 
@@ -35,7 +31,7 @@ Animation & motion capture
 - ✅ Real-time landmark rendering using MediaPipe.
 
 ---
-![Image](https://github.com/user-attachments/assets/807933b4-8980-4a19-8f59-e30169c71992)![Image](https://github.com/user-attachments/assets/3fe7bdaa-d731-4a09-9a7c-bb1c05883bf6)
+![Image](https://github.com/user-attachments/assets/807933b4-8980-4a19-8f59-e30169c71992)  ![Image](https://github.com/user-attachments/assets/3fe7bdaa-d731-4a09-9a7c-bb1c05883bf6)
 
 
 ## 🔧 Tech Stack

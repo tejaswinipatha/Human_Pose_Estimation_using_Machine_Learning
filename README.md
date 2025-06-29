@@ -10,10 +10,10 @@ Whether you're working with a single image, a video clip, or using a live webcam
 
 🧩 Help in applications such as:
 
-Fitness tracking & pose correction
-Yoga posture analysis
-Rehabilitation monitoring
-Interactive AI games or experiences
+Fitness tracking & pose correction<br/>
+Yoga posture analysis<br/>
+Rehabilitation monitoring<br/>
+Interactive AI games or experiences<br/>
 Animation & motion capture
 
 <br>
